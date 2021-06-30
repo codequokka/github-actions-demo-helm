@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-go
-          image: ghcr.io/codequokka/hello-go:1.0.1
+          image: ghcr.io/codequokka/hello-go:1.0.0
           ports:
             - containerPort: 8180
